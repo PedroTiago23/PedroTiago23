@@ -1,4 +1,4 @@
-### Oi, me chamo Pedro Tiago,sou um iniciante na área da programação e estou aqui para evoluir cada dia mais  
+### Olá, me chamo Pedro Tiago,sou um iniciante na área da programação e estou aqui para evoluir cada dia mais  
 ##
 <div align="center">
   <a href="https://github.com/PedroTiago23">

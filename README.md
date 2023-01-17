@@ -6,7 +6,7 @@
 
   
   <a href="https://github.com/PedroTiago23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=PedroTiago23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroTiago23)](https://github.com/PedroTiago23/github-readme-stats)
   
 
 ### Tecnologias que eu utilizo no meu dia a dia

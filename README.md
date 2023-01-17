@@ -6,7 +6,7 @@
 
   
   <a href="https://github.com/PedroTiago23">
- (https://github-readme-stats.vercel.app/api?username=PedroTiago23)](https://github.com/anuraghazra/github-readme-stats)
+  https://github-readme-stats.vercel.app/api?username=PedroTiago23)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ### Tecnologias que eu utilizo no meu dia a dia

@@ -5,11 +5,6 @@
 
 ### Linguagens e tecnologias que possuo certa familiaridade
 
-</div>
-
-
-
-
 <img 
     align="left" 
     alt="HTML"
@@ -73,3 +68,12 @@
   />
 
 </p>
+
+</div>
+
+
+
+
+
+
+

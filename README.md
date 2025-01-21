@@ -1,8 +1,14 @@
+<div align="center">
 # Pedro Tiago
 
 ---
 
 ### Linguagens e tecnologias que possuo certa familiaridade
+
+</div>
+
+
+
 
 <img 
     align="left" 

@@ -1,8 +1,8 @@
-<p style="text-align:center;">Pedro Tiago</p>
+# Pedro Tiago
 
 ---
 
-<p style="text-align:center;">Linguagens e tecnologias que possuo certa familiaridade</p>
+### Linguagens e tecnologias que possuo certa familiaridade
 
 <img 
     align="left" 

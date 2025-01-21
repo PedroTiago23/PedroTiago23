@@ -10,35 +10,42 @@
       alt="HTML"
       title="HTML" 
       width="30px" 
-      style="margin-right: 15px;" 
+      style="margin-right: 20px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
       alt="CSS" 
       title="CSS"
       width="30px" 
-      style="margin-right: 15px;" 
+      style="margin-right: 20px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
+<img 
+      alt="Javascript" 
+      title="Javascript"
+      width="30px" 
+      style="margin-right: 20px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />      
   <img 
       alt="Python" 
       title="Python"
       width="30px" 
-      style="margin-right: 15px;" 
+      style="margin-right: 20px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
   <img 
       alt="Linux"
       title="Linux" 
       width="30px" 
-      style="margin-right: 15px;" 
+      style="margin-right: 20px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
   />
   <img 
       alt="Git"
       title="Git" 
       width="30px" 
-      style="margin-right: 15px;" 
+      style="margin-right: 20px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
 </p>

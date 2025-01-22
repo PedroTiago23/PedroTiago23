@@ -2,12 +2,14 @@
 
 # Pedro Tiago
 ---
-
+<div align="left">
 - Nascido e crescido em Bauru,a cidade sem limites
 - 17 anos
 - Curto RPG,jogos de carta e tabuleiro
 - Enxadrista mais capivara de todos
-- Futuro programador e contribuinte para o mundo Open Source 
+- Futuro programador e contribuinte para o mundo Open Source  
+</div>
+
 
 ### Linguagens e tecnologias que possuo certa familiaridade
 

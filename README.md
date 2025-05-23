@@ -1,18 +1,6 @@
 <div align="center">
 
 # Pedro Tiago
----
-
-Nascido e crescido em Bauru,a cidade sem limites
-
-17 anos
-
-Curto RPG,jogos de carta e tabuleiro
-
-Enxadrista mais capivara de todos
-
-Futuro programador e contribuinte para o mundo Open Source  
-
 
 
 ### Linguagens e tecnologias que possuo certa familiaridade
